@@ -1,2 +1,2 @@
-Use the following dependencies
-Streamlit, Pandas, and Plotly
+import Streamlit, Pandas, and Plotly
+
