@@ -1,2 +1,4 @@
-import Streamlit, Pandas, and Plotly
+Streamlit
+Pandas 
+Plotly
 
